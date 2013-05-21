@@ -1,4 +1,5 @@
-kohana-simpleauth
-=================
 
-Kohana Simple Auth module
+simpleauth/form vars
+
+$data['title']
+$data['email']
