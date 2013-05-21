@@ -1,5 +1,11 @@
+# kohana-simpleauth
 
-simpleauth/form vars
+Kohana simple auth module
 
-$data['title']
-$data['email']
+
+## variables
+
+in simpleauth/form:
+
+	$data['title']
+	$data['email']
